@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Frond End React Task from VistaarX
+App Deployed on [https://venkatasatyakoppula.github.io/Frontend-Task-vistaarx/]
+
+Tested on Chrome and Firefox(works best!)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
