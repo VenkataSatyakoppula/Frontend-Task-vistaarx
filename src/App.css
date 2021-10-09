@@ -1,38 +1,80 @@
-.App {
-  text-align: center;
+.line{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+}
+.line span{
+    background:#fff; 
+    padding:0 10px;
+}
+.Container{
+    display: flex;
+    width: 54rem;
+    margin: auto auto;
+    flex-direction: column;
+    height: 50rem;
+    
+}
+.Cards-view{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+/*CSS for Reatiler card*/
+.card{
+    display: flex;
+    background-color: #e0e9f2;
+    width: 11.5rem;
+    margin:10px;
+    border-radius: 1rem;
+    flex-direction: column;
+    align-items: center;
+}
+.card>*{
+    margin:2px;
+}
+.card .close{
+    position: relative;
+    width: 1.7rem;
+    left:4.25rem;
+    top: 7px;
+    cursor: pointer;
+}
+.card span .profileImg{
+    width: 8rem;
+    border-radius: 50%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card h4{
+    font-weight: 900;
+}
+.card p{
+    font-size: 12px;
+}
+.card .InnerBox{
+    display: flex;
+    font-size: 12px;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7a808;
+    color: #fff;
+    border-radius: 7px;
+    padding: 10px;
+}
+.card .InnerBox span:first-child{
+    font-weight: 900;
+}
+.card button {
+    border: none;
+    width: 8rem;
+    font-size: 15px;
+    color: #fff;
+    background-color: #0a66c2;
+    font-weight: 500;
+    border-radius: 10px;
+    margin: 10px 0;
+    cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

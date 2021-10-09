@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Venkata satya",
+        "company": "ABC technologies Pvt Ltd",
+        "connected":false,
+        "connections":1110
+    },
+    {
+        "id":2,
+        "name":"Rahul",
+        "company": "DEF company",
+        "connected":false,
+        "connections":69
+    },
+    {
+        "id":3,
+        "name":"Lalitha",
+        "company": "Google LLC",
+        "connected":false,
+        "connections":783
+    },
+    {
+        "id":4,
+        "name":"Lakshmi",
+        "company": "ABC technologies Pvt Ltd",
+        "connected":false,
+        "connections":2763
+    },
+    {
+        "id":5,
+        "name":"Satya",
+        "company": "GHYR Pvt Ltd",
+        "connected":false,
+        "connections":1234
+    },
+    {
+        "id":6,
+        "name":"Dheeraj",
+        "company": "Microsoft",
+        "connected":false,
+        "connections":12345
+    },
+    {
+        "id":7,
+        "name":"Praneeth",
+        "company": "123 comapany",
+        "connected":false,
+        "connections":289
+    },
+    {
+        "id":8,
+        "name":"karthik",
+        "company": "VistaarX",
+        "connected":false,
+        "connections":1099
+    },
+    {
+        "id":9,
+        "name":"Ananya",
+        "company": "FGH Pvt Ltd",
+        "connected":false,
+        "connections":2376
+    },
+    {
+        "id":10,
+        "name":"Abdul",
+        "company": "Flipkart",
+        "connected":false,
+        "connections":346
+    }
+
+]
