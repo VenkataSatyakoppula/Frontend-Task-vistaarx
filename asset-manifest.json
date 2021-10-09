@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Frontend-Task-vistaarx/static/css/main.ea2e04a1.chunk.css",
+    "main.js": "/Frontend-Task-vistaarx/static/js/main.63a6e821.chunk.js",
+    "main.js.map": "/Frontend-Task-vistaarx/static/js/main.63a6e821.chunk.js.map",
+    "runtime-main.js": "/Frontend-Task-vistaarx/static/js/runtime-main.da375857.js",
+    "runtime-main.js.map": "/Frontend-Task-vistaarx/static/js/runtime-main.da375857.js.map",
+    "static/js/2.f86527f1.chunk.js": "/Frontend-Task-vistaarx/static/js/2.f86527f1.chunk.js",
+    "static/js/2.f86527f1.chunk.js.map": "/Frontend-Task-vistaarx/static/js/2.f86527f1.chunk.js.map",
+    "static/js/3.4d2b3e80.chunk.js": "/Frontend-Task-vistaarx/static/js/3.4d2b3e80.chunk.js",
+    "static/js/3.4d2b3e80.chunk.js.map": "/Frontend-Task-vistaarx/static/js/3.4d2b3e80.chunk.js.map",
+    "index.html": "/Frontend-Task-vistaarx/index.html",
+    "static/css/main.ea2e04a1.chunk.css.map": "/Frontend-Task-vistaarx/static/css/main.ea2e04a1.chunk.css.map",
+    "static/js/2.f86527f1.chunk.js.LICENSE.txt": "/Frontend-Task-vistaarx/static/js/2.f86527f1.chunk.js.LICENSE.txt",
+    "static/media/close.47fa2ba7.svg": "/Frontend-Task-vistaarx/static/media/close.47fa2ba7.svg",
+    "static/media/user_pic.6ba7eea0.jpg": "/Frontend-Task-vistaarx/static/media/user_pic.6ba7eea0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da375857.js",
+    "static/js/2.f86527f1.chunk.js",
+    "static/css/main.ea2e04a1.chunk.css",
+    "static/js/main.63a6e821.chunk.js"
+  ]
+}
