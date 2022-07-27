@@ -1,6 +1,6 @@
 # Frond End React Task from VistaarX
 # App Deployed on 
-[https://venkatasatyakoppula.github.io/Frontend-Task-vistaarx/]
+[https://venkatasatyakoppula.github.io/React-frontend/]
 
 Tested on Chrome and Firefox(works best!)
 
